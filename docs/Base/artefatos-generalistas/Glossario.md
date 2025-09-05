@@ -26,7 +26,7 @@ Por fim, para melhor organização de todos os termos e garantir uma maior rastr
 
 | **ID**    | **Termo**                  | **Significado**                                                                                                                                                               |
 | :---- | :--------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| #GD01 | Clientes               | Corresponde ao grupo de usuários que faz pedidos no aplicativo para receberem a Faculdade de Ciências e Tecnologias em Engenharia (FCTE).                                                                            |
+| #GD01 | Clientes               | Corresponde ao grupo de usuários que faz pedidos no aplicativo para receberem na Faculdade de Ciências e Tecnologias em Engenharia (FCTE).                                                                            |
 | #GD02 | Código de entrega      | Corresponde a um conjunto de quatro dígitos que poderá ser configurado pelo estudante. Por padrão, usa-se os quatro últimos dígitos do número de telefone da conta.     |
 | #GD03 | Conversas              | Corresponde a uma aba do aplicativo em que o usuário poderá se comunicar com os restaurantes em que possui pedidos em andamento ou com os entregadores.                 |
 | #GD04 | Entregador             | Corresponde a uma pessoa usuária do aplicativo que pode ou não trabalhar em um estabelecimento agregado ao aplicativo. Ela é responsável por fazer as entregas dos pedidos realizados pelos clientes. |
@@ -37,9 +37,12 @@ Por fim, para melhor organização de todos os termos e garantir uma maior rastr
 | #GD09 | Pedido                 | Corresponde a um prato ou conjunto de pratos que foram encomendados pelo cliente para ser entregue na FCTE.   |
 | #GD10 | Ponto de Entrega       | Corresponde a FCTE, antiga Faculdade do Gama (FGA), é nela que os pedidos são feitos e entregues.  |
 | #GD11 | Product Owners         | "Parte interessada responsável pelas capacidades, aceitação e uso de um produto." (SEVOCAB) <a id="anchor_1" onclick="document.getElementById('REF1').scrollIntoView()" style="cursor:pointer;">[1]</a>   |
+| #GD12 | Restaurante            | Corresponde ao estabelecimento comercial que prepara e vende os alimentos. Os restaurantes são usuários do tipo pessoa jurídica do aplicativo. |
 | #GD13 | Status do Pedido       | Corresponde a um indicativo das fases em que o pedido está: em preparo, em trânsito, entregue.   |
 | #GD14 | Suporte para o usuário | Corresponde a uma aba do aplicativo em que o usuário pode utilizá-la para inserir dúvidas e reclamações com relação aos seus pedidos/entregas, e uso do app. |
 | #GD15 | Usuários               | Corresponde aos clientes, entregadores e restaurantes que utilizam o aplicativo.                                                                 |
+| #GD16 | Cardápio               | Lista de pratos e bebidas disponíveis em um restaurante, com seus respectivos preços. |
+| #GD17 | Pagamento              | Ação de transferir o valor monetário correspondente ao pedido. Pode ser realizado por diferentes métodos, como cartão de crédito, débito ou PIX, através do aplicativo. |
 
 # Termos de Arquitetura
 
@@ -47,7 +50,7 @@ Por fim, para melhor organização de todos os termos e garantir uma maior rastr
 
 | **ID**    | **Termo**                                | **Significado**                                                                                                                                                                            |
 | :---- | :----------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| #GA01 | API ( Application Programming Interface) | "Conjunto de funções, protocolos, parâmetros e objetos de diferentes formatos, usados ​​para criar software que interage com os recursos ou dados de um sistema ou serviço externo." (SEVOCAB) <a id="anchor_1" onclick="document.getElementById('REF1').scrollIntoView()" style="cursor:pointer;">[1]</a> |
+| #GA01 | API (Application Programming Interface) | "Conjunto de funções, protocolos, parâmetros e objetos de diferentes formatos, usados ​​para criar software que interage com os recursos ou dados de um sistema ou serviço externo." (SEVOCAB) <a id="anchor_1" onclick="document.getElementById('REF1').scrollIntoView()" style="cursor:pointer;">[1]</a> |
 | #GA02 | Backlog                              | "Coleção de recursos ágeis ou histórias de requisitos funcionais e não funcionais que normalmente são classificados em uma ordem com base na prioridade de valor." (SEVOCAB) <a id="anchor_1" onclick="document.getElementById('REF1').scrollIntoView()" style="cursor:pointer;">[1]</a>             |
 | #GA03 | Banco de Dados                       | "Conjunto de dados organizados de acordo com uma estrutura conceitual que descreve as características dos dados e as relações entre suas entidades correspondentes, apoiando uma ou mais áreas de aplicação." (SEVOCAB) <a id="anchor_1" onclick="document.getElementById('REF1').scrollIntoView()" style="cursor:pointer;">[1]</a> |
 | #GA04 | BPMN                                 | "Modelo de processo de negócios e notação." (SEVOCAB) <a id="anchor_1" onclick="document.getElementById('REF1').scrollIntoView()" style="cursor:pointer;">[1]</a>      |
@@ -60,6 +63,9 @@ Por fim, para melhor organização de todos os termos e garantir uma maior rastr
 | #GA11 | UML (Unified Modeling Language)       | "Linguagem gráfica para visualizar, especificar, construir e documentar artefatos de um sistema intensivo de software orientado a objetos." (SEVOCAB) <a id="anchor_1" onclick="document.getElementById('REF1').scrollIntoView()" style="cursor:pointer;">[1]</a>   
 | #GA12 | UX                                   | "Percepções e respostas do usuário que resultam do uso ou uso antecipado de um produto, sistema ou serviço." (SEVOCAB) <a id="anchor_1" onclick="document.getElementById('REF1').scrollIntoView()" style="cursor:pointer;">[1]</a> 
 | #GA13 | XP                                   | "Forma de desenvolvimento ágil de software em que os procedimentos para planejamento e trabalho iterativos são combinados com procedimentos técnicos, como design orientado a testes e programação em pares. (SEVOCAB) <a id="anchor_1" onclick="document.getElementById('REF1').scrollIntoView()" style="cursor:pointer;">[1]</a> |
+| #GA14 | Backend                              | "A parte de um aplicativo de software que não é visível para o usuário, geralmente responsável por armazenar e manipular dados." (SEVOCAB) <a id="anchor_1" onclick="document.getElementById('REF1').scrollIntoView()" style="cursor:pointer;">[1]</a> |
+| #GA15 | Frontend                             | "A parte de um aplicativo de software com a qual um usuário interage diretamente." (SEVOCAB) <a id="anchor_1" onclick="document.getElementById('REF1').scrollIntoView()" style="cursor:pointer;">[1]</a> |
+| #GA16 | Teste de Software                    | "Processo de análise de um item de software para detectar as diferenças entre as condições existentes e as exigidas (ou seja, defeitos) e para avaliar os recursos do item de software." (SEVOCAB) <a id="anchor_1" onclick="document.getElementById('REF1').scrollIntoView()" style="cursor:pointer;">[1]</a> |
                      
 # Termos de Versionamento
 
@@ -119,4 +125,5 @@ Por fim, para melhor organização de todos os termos e garantir uma maior rastr
 | 03/09/2025 |  `1.0`   | Criação do documento do Glossário e adição os termos. | [`@Luiz`](https://github.com/luizfaria1989) | [`@Willian`](https://github.com/Wooo589) |   04/09/2025    |
 | 03/09/2025 |  `1.1`   | Adições de referências para o documento. | [`@Luiz`](https://github.com/luizfaria1989) | [`@Willian`](https://github.com/Wooo589) |   04/09/2025    |
 | 04/09/2025 |  `1.2`   | Remoção de termos sem significados do glossário. | [`@Luiz`](https://github.com/luizfaria1989) | [`@Willian`](https://github.com/Woo589) |   04/09/2025    |
-| 04/09/2025 |  `1.3`   | Adição de termos de versionamento. | [`@Willian`](https://github.com/Wooo589) | [`@`](https://github.com/) |   04/09/2025    |
+| 04/09/2025 |  `1.3`   | Adição de termos de versionamento. | [`@Willian`](https://github.com/Wooo589) | [`@Ana Joyce`](https://github.com/anajoyceamorim) |   05/09/2025    |
+| 05/09/2025 |  `1.4`   | Adição de termos. | [`@Ana Joyce`](https://github.com/anajoyceamorim) | [``](https://github.com/) |   05/09/2025    |
