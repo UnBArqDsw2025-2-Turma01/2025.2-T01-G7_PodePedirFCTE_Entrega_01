@@ -11,3 +11,9 @@
       - [1.3.1. Fluxo Design Sprint](/Base/bpmn/1.3.2.FluxoDS.md)
     - [1.4. Participações - Base](/Base/1.4.ParticipacoesBase.md)
     - [1.5. Iniciativas Extras - Base](/Base/1.5.IniciativasExtras.md)
+      - [1.5.1. Ferramentas Utilizadas](/Base/iniciativasExtras/1.5.1.FerramentasUtilizadas.md)
+      - [1.5.2. Heatmap](/Base/iniciativasExtras/1.5.2.Heatmap.md)
+      - 1.5.3. Atas de Reunião
+        - [1.5.3.1. Reunião 27/08](/Base/iniciativasExtras/atas/reuniao-27-08.md)
+        - [1.5.3.2. Reunião 01/09 - Manhã](/Base/iniciativasExtras/atas/reuniao-01-09-manha.md)
+        - [1.5.3.3. Reunião 01/09 - Noite](/Base/iniciativasExtras/atas/reuniao-01-09-noite.md)
