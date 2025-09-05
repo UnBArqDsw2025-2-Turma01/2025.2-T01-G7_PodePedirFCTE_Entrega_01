@@ -2,7 +2,7 @@
 
 **Faculdade UnB Gama**  
 
-**Data:** Segunda feira, 01 de Setemrbo de 2025 - 08h
+**Data:** Segunda feira, 01 de Setembro de 2025 - 08h
 
 **Formato:** Presencial
 
