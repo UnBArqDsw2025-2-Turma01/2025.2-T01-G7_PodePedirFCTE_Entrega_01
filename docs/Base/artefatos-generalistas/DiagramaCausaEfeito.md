@@ -10,6 +10,8 @@
 
 ---
 
+![Diagrama de Causa e Efeito da FCTE](../assets/artefatos-generalistas/ISHIKAWA.png)
+
 ## 📝 **1. Resumo do Diagrama**
 
 Este relatório apresenta a análise das causas raiz para o problema **"Escassez de opções alimentares na FCTE"**.  
