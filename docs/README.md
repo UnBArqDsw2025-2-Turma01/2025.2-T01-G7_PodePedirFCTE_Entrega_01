@@ -31,3 +31,9 @@ Adicione 2 ou mais screenshots em termos de artefatos realizados na entrega.
 
 (X) NÃO
 
+## Histórico de Versões
+
+
+| **Data**       | **Versão** | **Descrição**                         | **Autor**                                      | **Revisor**                                      | **Data da Revisão** |
+| :--------: | :----: | :-------------------------------- | :----------------------------------------: | :----------------------------------------: | :-------------: |
+| 05/09/2025 |  `1.0`   | Criação do documento |[`@Ana Clara`](https://github.com/anabborges) | [`@`](https://github.com/) |    |
