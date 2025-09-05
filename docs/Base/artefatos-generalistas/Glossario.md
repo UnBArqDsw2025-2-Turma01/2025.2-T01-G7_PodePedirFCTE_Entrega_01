@@ -116,6 +116,20 @@ Por fim, para melhor organização de todos os termos e garantir uma maior rastr
 
 > <span id="REF3">3.</span> <a onclick="document.getElementById('anchor_3').scrollIntoView()" style="cursor:pointer;">Glossário do GitHub. Disponível em:</a>: https://docs.github.com/pt/get-started/learning-about-github/github-glossary. Acesso em: 02 de setembro de 2025.
 
+## Detalhes da Entrega
+
+Esta seção cita os membros que participaram da elaboração do artefato.
+
+### Quadro de Participações
+
+| Membro da Equipe                                              |
+| :------------------------------------------------------------ |
+| [Ana Joyce](https://github.com/anajoyceamorim)                |
+| [Luiz Guilherme](https://github.com/luizfaria1989)            |
+| [Willian](https://github.com/Wooo589)                         |
+
+---
+
  
 
 # Histórico de Versões

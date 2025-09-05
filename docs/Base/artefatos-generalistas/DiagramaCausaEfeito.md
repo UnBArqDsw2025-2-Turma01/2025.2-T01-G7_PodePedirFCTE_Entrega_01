@@ -73,7 +73,21 @@ O diagnóstico confirma que a **escassez de opções alimentares na FCTE** é um
 
 A combinação desses elementos gera um **ciclo negativo** de baixa atratividade comercial, poucas opções de fornecedores e consequente **insatisfação do usuário final**.  
 
+## Detalhes da Entrega
 
+Esta seção cita os membros que participaram da elaboração do artefato.
+
+### Quadro de Participações
+
+| Membro da Equipe                                              |
+| :------------------------------------------------------------ |
+| [Ana Joyce](https://github.com/anajoyceamorim)                |
+| [Cayo](https://github.com/Cayoalencar)                        |
+| [Fabio](https://github.com/fabinsz)                           |
+| [João Filipe](https://github.com/Joao151104)                  | 
+| [Willian](https://github.com/Wooo589)                         |
+
+---
 
 ## Referências
 

@@ -10,6 +10,28 @@ O mapa mental foi estruturado usando como base as etapas 'Understand' e 'Define'
 
 _Observação: O mapa mental foi estruturado pelas participantes [Ana Clara](https://github.com/anabborges) e [Gabriela]("https://github.com/anabborges") porém **todos os membros contribuíram com as discussões** para ele que foram realizadas durante as etapas 'Understand' e 'Define' da Design Sprint._
 
+## Detalhes da Entrega
+
+Esta seção cita os membros que participaram do artefato.
+
+### Quadro de Participações
+
+| Membro da Equipe                                              |
+| :------------------------------------------------------------ |
+| [Ana Clara](https://github.com/anabborges)                    |
+| [Ana Joyce](https://github.com/anajoyceamorim)                |
+| [Cayo](https://github.com/Cayoalencar)                        |
+| [Fabio](https://github.com/fabinsz)                           |
+| [Gabriela](https://github.com/gaubiela)                       |
+| [Guilherme Storch](https://github.com/storch7)                | 
+| [João Filipe](https://github.com/Joao151104)                  |
+| [Luiz Guilherme](https://github.com/luizfaria1989)            |
+| [Nathan](https://github.com/Nathan-bs)                        |
+| [Rodrigo](https://github.com/rodrigoFAmaral)                  |
+| [Willian](https://github.com/Wooo589)                         |
+
+---
+
 ## Histórico de Versões
 
 | **Data**       | **Versão** | **Descrição**                         | **Autor**                                      | **Revisor**                                      | **Data da Revisão** |

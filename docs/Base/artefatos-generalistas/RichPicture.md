@@ -35,6 +35,21 @@ Ambos os *Rich Pictures* tem como objetivo retratar o **fluxo do app**, identifi
 
 ---
 
+## Detalhes da Entrega
+
+Esta seção cita os membros que participaram da elaboração do artefato.
+
+### Quadro de Participações
+
+| Membro da Equipe                                              |
+| :------------------------------------------------------------ |
+| [Cayo](https://github.com/Cayoalencar)                        |
+| [Gabriela](https://github.com/gaubiela)                       |
+| [Luiz Guilherme](https://github.com/luizfaria1989)            |
+| [Rodrigo](https://github.com/rodrigoFAmaral)                  |
+
+---
+
 ### Bibliografia
 
 > BETTER EVALUATION. Rich pictures. Disponível em: [https://www.betterevaluation.org/methods-approaches/methods/rich-pictures](https://www.betterevaluation.org/methods-approaches/methods/rich-pictures). Acesso em: 4 set. 2025.
