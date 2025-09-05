@@ -27,6 +27,12 @@ Ambos os *Rich Pictures* tem como objetivo retratar o **fluxo do app**, identifi
 <strong>Autor</strong> : Luiz
 </div>
 
+![Quadro IQI no Miro](../assets/artefatos-generalistas/RICHPICTURE3.png)
+<div align="center">
+<strong>Figura 3</strong> – Rich picture da aplicação PodePedirFCTE.<br>
+<strong>Autor</strong> : Rodrigo
+</div>
+
 ---
 
 ### Bibliografia
@@ -41,3 +47,4 @@ Ambos os *Rich Pictures* tem como objetivo retratar o **fluxo do app**, identifi
 |  **Data**  | **Versão** | **Descrição**        |         **Autor**          |        **Revisor**         | **Data da Revisão** |
 | :--------: | :--------: | :------------------- | :------------------------: | :------------------------: | :-----------------: |
 | 04/09/2025 |   `1.0`    | Criação do documento | [`@Gabriela Alves`](https://github.com/gaubiela) | [`@`](https://github.com/) |     00/00/0000      |
+| 04/09/2025 |   `1.0`    | Adicionando richpicture | [`@Rodrigo Amaral`](https://github.com/rodrigoFAmaral) | [`@`](https://github.com/) |     00/00/0000      |
