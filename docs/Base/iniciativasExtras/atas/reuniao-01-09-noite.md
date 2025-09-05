@@ -2,7 +2,7 @@
 
 **Faculdade UnB Gama**  
 
-**Data:** Quarta feira, 27 de Agosto de 2025 - 21h
+**Data:** Segunda feira, 01 de Setemrbo de 2025 - 20h
 
 **Formato:** Remoto
 
