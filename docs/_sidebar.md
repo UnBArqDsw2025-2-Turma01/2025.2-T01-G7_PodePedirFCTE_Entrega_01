@@ -5,7 +5,13 @@
 
 - **Base**
   - [1. Desenho de Software (Base)](/Base/1.Base.md)
-    - [1.1. Design Sprint](/Base/1.1.DesignSprint.md)
+    - [1.1. Design Sprint](./Base/design-sprint/1.1.DesignSprint.md)
+      - [1.1.1.Understand](./Base/design-sprint/1.1.1.Understand.md)
+      - [1.1.2.Define](./Base/design-sprint/1.1.2.Define.md)
+      - [1.1.3.Sketch](./Base/design-sprint/1.1.3.Sketch.md)
+      - [1.1.4.Decide](./Base/design-sprint/1.1.4.Decide.md)
+      - [1.1.5.Prototype](./Base/design-sprint/1.1.5.Prototype.md)
+      - [1.1.6.Validate](./Base/design-sprint/1.1.6.Validate.md)
     - [1.2. Artefatos Generalistas](./Base/1.2.ArtefatoGeneralista.md)
       - [1.2.1. 5W2H](./Base/artefatos-generalistas/5W2H.md)
       - [1.2.2. Mapa Mental](./Base/artefatos-generalistas/MapaMental.md)
