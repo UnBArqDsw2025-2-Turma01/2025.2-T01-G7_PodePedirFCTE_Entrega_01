@@ -23,7 +23,12 @@
 PodePedirFCTE é um aplicativo que permite que alunos da FCTE peçam comidas de restaurantes próximos à faculdade. Ele tem como objetivo formentar o comércio local do Gama.
 
 ## Screenshots da Primeira Entrega
-Adicione 2 ou mais screenshots em termos de artefatos realizados na entrega.
+
+Aqui são encontrados alguns dos artefatos produzidos durante a Primeira Entrega, mais artefatos podem ser encontrados nas páginas.
+
+![BPMN-Uso](./Base/assets/FCTEntregas-Comprador-BPMN.png)
+![RichPicture](./Base/assets/artefatos-generalistas/RICHPICTURE1.png)
+![Ishikawa](./Base/assets/artefatos-generalistas/ISHIKAWA.png)
 
 ## Há algo a ser executado?
 
